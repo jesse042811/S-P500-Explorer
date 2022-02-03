@@ -1,4 +1,4 @@
-# S&P500-Explorer
+# S&P500 Explorer
 
 S&P 500 explorer that can be filtered by Sectors and can be downloaded
 
